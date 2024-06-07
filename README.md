@@ -1,13 +1,13 @@
 <html>
   <body>
-   <h1> # -- DONE <style>span[class="checked"]{color: green;}</style> -- </h1> <br>
+   <h1> -- DONE <style>span[class="checked"]{color: green;}</style> -- </h1> <br>
 
 <p>
 - Be born (08/03/2002) <br>
 - Basic education (2019) 
 </p>
 
-<h1> # -- TODO -- <br> </h1>
+<h1> -- TODO -- <br> </h1>
 
 <p>
 - Become a cRUSTacean <br>
@@ -18,7 +18,7 @@
 - Get a driving license <br> 
 </p>
 
-<h1> # -- INFO -- <br> </h1>
+<h1> -- INFO -- <br> </h1>
 
 <p>
 - Activity might be pretty irregular. <br>
