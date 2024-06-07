@@ -1,9 +1,9 @@
--- DONE <style>span[class="checked"]{color: green;}</style> --
+# -- DONE <style>span[class="checked"]{color: green;}</style> --
 
 - Be born (08/03/2002)
 - Basic education (2019)
 
--- TODO --
+# -- TODO --
 
 - Become a cRUSTacean
 - Actually fix my coding
@@ -12,7 +12,7 @@
 - Lose weight (100 kilograms, no freedom units)
 - Get a driving license
 
--- INFO --
+# -- INFO --
 
 - Activity might be pretty irregular.
 - Asking me about anything outside of python might not yield much as of 2024.
