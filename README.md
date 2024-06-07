@@ -7,7 +7,7 @@
 
 - Become a cRUSTacean
 - Actually fix my coding
-- Make a good dashboard
+- Make a decent power bi dashboard for once
 - Heal knee (Sprained)
 - Lose weight (100 kilograms, no freedom units)
 - Get a driving license
