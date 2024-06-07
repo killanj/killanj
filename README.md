@@ -1,6 +1,6 @@
 <html>
   <body>
-   <h1> -- DONE <style>span[class="checked"]{color: green;}</style> -- </h1> <br>
+   <h1> -- DONE -- </h1> <br>
 
 <p>
 - Be born (08/03/2002) <br>
