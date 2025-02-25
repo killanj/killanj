@@ -10,9 +10,7 @@
 <h1> -- TODO -- <br> </h1>
 
 <p>
-- Become a cRUSTacean <br>
 - Actually fix my coding <br>
-- Make a decent power bi dashboard for once <br>
 - Heal knee (Sprained) <br>
 - Lose weight (100 kilograms, no freedom units) <br>
 - Get a driving license <br> 
@@ -23,8 +21,7 @@
 <p>
 - Activity might be pretty irregular. <br>
 - Asking me about anything outside of python might not yield much as of 2024. <br>
-- Currently getting an industrial automation degree. Working as a "dev" in the meantime is a bit out there for me. <br>
-- Neurodivergent. <br> 
+- Currently dipping toes into DevOps subjects. <br>
 </p>
   </body>
 </html>
